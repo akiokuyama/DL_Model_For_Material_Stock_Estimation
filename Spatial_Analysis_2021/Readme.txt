@@ -1,1 +1,0 @@
-This folder incudes codes to split the NAIP image into single images, assign categorical values for building type.
