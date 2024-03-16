@@ -8,16 +8,16 @@ Please Note that this repository does not contain all the data I used for this s
 
 ### Step1
 
-Download all the necessary data. All the necessary codes and information to download the data are stored in "Original_Data" folder.
+Download all the necessary data. All the necessary code and information to download the data are stored in "Original_Data" folder.
 
 
 ### Step 2
 
-"Spatial_Analysis_2021" folder contains codes to split the NAIP image into each parcel and assign building types. 
+"Spatial_Analysis_2021" folder contains code to split the NAIP image into each parcel and assign building types. 
 
 ### Step 3
 
-Use codes in "Model_Training_Evaluation" to train and test the models.
+Use code in "Model_Training_Evaluation" to train and test the models.
 
 ### Step 4
 
