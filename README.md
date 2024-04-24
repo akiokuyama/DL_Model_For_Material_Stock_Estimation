@@ -1,7 +1,7 @@
 # Deep Learning Approach to Floor Area and Building Material Stocks Estimation Using Aerial & Street View Image
 This is the repository for the research to develop a deep learning model to predict material stocks estimation at city-scale.
 
-The preprint is available at https://doi.org/10.31224/3604
+The preprint is available at xxx
 
 ## Work Step
 Please Note that this repository does not contain all the data I used for this study because some data are too large to upload.
