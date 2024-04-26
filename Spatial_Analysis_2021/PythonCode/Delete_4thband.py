@@ -26,6 +26,6 @@ def remove_nir_band(input_file, output_file):
             print(f"File saved without the NIR band: {output_file}")
 
 # Example usage
-input_tif = "D:/Users/Aki/MS_Minneapolis/Original_Data/NAIPImage/Minneapolis_2021.tif"
-output_tif = "D:/Users/Aki/MS_Minneapolis/Created_Data/NAIP_3Bands/Minneapolis_2021_3Bands.tif"
+input_tif = ""
+output_tif = ""
 remove_nir_band(input_tif, output_tif)
