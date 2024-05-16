@@ -9,7 +9,7 @@
 #SBATCH --mail-type=begin            # send email when job begins
 #SBATCH --mail-type=end              # send email when job ends
 #SBATCH --mail-type=fail             # send email if job fails
-#SBATCH --mail-user=ao3526@princeton.edu
+#SBATCH --mail-user=
 
 
 export MASTER_PORT=$(get_free_port)
